@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "supabase": {
+      "command": "C://Users//HELTONROLIM3831//Documents//MCP//.venv//Scripts//python.exe",
+      "args": [
+        "C://Users//HELTONROLIM3831//Documents//MCP//server.py"
+      ]
+    }
+  }
+}
+
